@@ -1,0 +1,11 @@
+
+
+make clean # to remove recursively the build directory and the source executable
+
+
+
+
+make all # calls batchmake script to create a build directory and to create an object file for every .cpp in include directory , then it creates source executable
+
+source file can be run on terminal by ./source k (where k is positive integer)
+
