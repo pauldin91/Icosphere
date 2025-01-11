@@ -8,6 +8,9 @@ of each parent face subdivision is displaced disproportionally towards its outwa
 Use `make all` and `./Source` to build and run the application respectively
 and `make clean` to clean the binaries.
 
+# Demo
+For a short demonstration take a look at geodesic.mkv video
+
 
 # Samples
 
