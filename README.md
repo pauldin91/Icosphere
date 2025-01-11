@@ -19,4 +19,8 @@ and `make clean` to clean the binaries.
 <p align="center">
   <img src="demo_2.png" >
 </p>
+
+<p align="center">
+  <iframe width="560" height="315" src="geodesic.mkv" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</p>
  
