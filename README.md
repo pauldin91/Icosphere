@@ -20,6 +20,4 @@ and `make clean` to clean the binaries.
   <img src="demo_2.png" >
 </p>
 
-[![Watch the video](demo_1.png)](geodesic.mkv)
-
  
