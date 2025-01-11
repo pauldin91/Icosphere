@@ -11,7 +11,12 @@ and `make clean` to clean the binaries.
 
 # Samples
 
-![Demo 1](demo_1.png)
+<p align="center">
+  <img src="demo_1.png" >
+</p>
 
-![Demo 2](demo_2.png)
+
+<p align="center">
+  <img src="demo_2.png" >
+</p>
  
