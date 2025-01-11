@@ -7,4 +7,11 @@ of each parent face subdivision is displaced disproportionally towards its outwa
 # Build & Run
 Use `make all` and `./Source` to build and run the application respectively
 and `make clean` to clean the binaries.
+
+
+# Samples
+
+![Demo 1](demo_1.png)
+
+![Demo 2](demo_2.png)
  
