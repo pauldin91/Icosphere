@@ -8,6 +8,7 @@ of each parent face subdivision is displaced proportionally towards its outward 
 - Change Color
 - Enable/Disable fill
 - Enable/Disable texture (predefined)
+- Enable/Disable face subdivision
 - Enable/Disable animation
 - Change radius 
 
